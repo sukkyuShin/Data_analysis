@@ -128,7 +128,8 @@ results = np.array([
 244],
 [75,72,280,84,103,727,166,105,8,5525,39,90,288,904,1982,149,14,54,118,
 23,124,869,420,4,4633,49,14,83,6961,5249],
-[2,1,9,2,12,25,6,6,0,228,1,18,15,84,136,44,0,3,7,1,48,82,2,4,143,89,1,6,1150,614]
+[2,1,9,2,12,25,6,6,0,228,1,18,15,84,136,44,0,3,7,1,48,82,2,4,143,89,1,
+6,1150,614]
 ])
 
 for i in data:
@@ -160,7 +161,10 @@ plt.show()
 ```
 ```
 ★참고 자료★
-범죄 관련 자료 수집 : 공공데이터포털 https://www.data.go.kr/
-csv 파일 연결 : https://formal.hknu.ac.kr/Gongsu-DataSci/notebooks/GongSu12_CSV_File_Data_Visualization.html
-다단 그래프 그리기: https://techreviewtips.blogspot.com/2017/10/subplot.html
+1. 범죄 관련 자료 수집
+공공데이터포털 https://www.data.go.kr/
+2. csv 파일 연결
+https://formal.hknu.ac.kr/Gongsu-DataSci/notebooks/GongSu12_CSV_File_Data_Visualization.html
+3. 다단 그래프 그리기
+https://techreviewtips.blogspot.com/2017/10/subplot.html
 ```
