@@ -1,5 +1,5 @@
 # 범죄유형과 범죄 특징에 대한 분석자료_230216
-![img1](https://user-images.githubusercontent.com/122436389/219287733-3c5363bb-e0cb-48ad-ad98-b3311c671667.png)   
+![img1](https://user-images.githubusercontent.com/122436389/219289489-85e5ef7a-be77-4997-b9a7-9334a62f3c29.png)   
 ![정보확인](https://user-images.githubusercontent.com/122436389/219287691-8e2327b4-d84f-4a0f-848e-e0ba4eb593b8.PNG)
 ```
 😲조사에 따른 2가지 사실
