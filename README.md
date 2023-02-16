@@ -1,18 +1,23 @@
 # 범죄유형과 범죄 특징에 대한 분석자료_230216
 
-![img1](https://user-images.githubusercontent.com/122436389/219274089-cf052351-7d92-41f5-a000-aa1d530a3bab.png)
+![주제선정](https://user-images.githubusercontent.com/122436389/219285584-54176a6b-31ca-40aa-81d3-cd2900a2941a.PNG)
+![정보확인](https://user-images.githubusercontent.com/122436389/219285581-859c69b4-6438-4c62-9794-6c4b31148409.PNG)
 ```
-🌞자료 활용 방안
+😲조사에 따른 2가지 사실
+✔ 성범죄의 비율이 높고, 교육수준이 높을 수록 범죄 비율이 낮아진다는 분석을 토대로
+  범죄자를 대상으로 하는 교육이 , 범죄율을 낮출 수 있으리라 기대할 수 있다.
+✔ 이에 재소자들을 대상으로 하는 인문학 또는 심리상담 등을 제안할 수 있다.
+```
+![요일](https://user-images.githubusercontent.com/122436389/219280617-f59c34c4-ec08-4053-8981-55ce19ba89a8.png)
+```
+🌞자료 활용 방안(2)
 1. 보안업체에서 CCTV 등 보안 상품을 판매하기 위한 참고 자료로 사용 가능
 2. 시,도,군으로 세부 조사 할 경우, 지자체의 순찰 강화, 범죄 예방 캠패인 등 요청 시
-3. 범죄예방 교육 강화 (학교, 관공서, 회사 등)
 
 ✅추후 업데이트
 - 범죄자 직업 취합자료를 바탕으로 원인이 될 만한 데이터와 연결시켜 좀 더 의미있는 자료로 활용.
 - 원인 ex ) 근무자 스트레스, 학생 스트레스 등
 ```
-
-![요일](https://user-images.githubusercontent.com/122436389/219280617-f59c34c4-ec08-4053-8981-55ce19ba89a8.png)
 ``` python
 import csv
 f = open("C:\\Users\\a13\\Desktop\\web\\day33\\범죄발생_요일_2019.csv",encoding='euc-kr')
