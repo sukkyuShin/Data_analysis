@@ -1,7 +1,6 @@
 # 범죄유형과 범죄 특징에 대한 분석자료_230216
-
-![주제선정](https://user-images.githubusercontent.com/122436389/219285584-54176a6b-31ca-40aa-81d3-cd2900a2941a.PNG)   
-![정보확인](https://user-images.githubusercontent.com/122436389/219286075-6bfd91da-d4d4-4601-9b94-0d172d2e7c86.PNG)
+![img1](https://user-images.githubusercontent.com/122436389/219287733-3c5363bb-e0cb-48ad-ad98-b3311c671667.png)   
+![정보확인](https://user-images.githubusercontent.com/122436389/219287691-8e2327b4-d84f-4a0f-848e-e0ba4eb593b8.PNG)
 ```
 😲조사에 따른 2가지 사실
 ✔ 성범죄의 비율이 높고, 교육수준이 높을 수록 범죄 비율이 낮아진다는 분석을 토대로
