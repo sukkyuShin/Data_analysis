@@ -9,7 +9,7 @@
 ```
 ![요일](https://user-images.githubusercontent.com/122436389/219280617-f59c34c4-ec08-4053-8981-55ce19ba89a8.png)
 ```
-🌞자료 활용 방안(2)
+🌞자료 활용 방안
 1. 보안업체에서 CCTV 등 보안 상품을 판매하기 위한 참고 자료로 사용 가능
 2. 시,도,군으로 세부 조사 할 경우, 지자체의 순찰 강화, 범죄 예방 캠패인 등 요청 시
 
@@ -54,7 +54,6 @@ ax2.plot(x,sal,label="살인")
 ax2.plot(x,ma,label="마약")
 ax1.legend()
 
-
 plt.xticks(x, day)
 plt.legend()
 plt.show()
@@ -98,13 +97,11 @@ for i in drug:
 print(type(kill))
 
 x = np.arange(0,19,1)
-
 fig, (ax1, ax2) = plt.subplots(2,1, sharex=True)
 fig.subplots_adjust(hspace=0.05)
 ax1.plot(x,assult1,c ="red", label="성폭행")
 ax2.plot(x,kill1,label="살인")
 ax2.plot(x,drug1, label="마약")
-
 
 plt.xticks(x, sort_edu, rotation=45)
 ax1.set(title='범죄자의 교육정도')
