@@ -2,7 +2,7 @@
 
 ![img1](https://user-images.githubusercontent.com/122436389/219274089-cf052351-7d92-41f5-a000-aa1d530a3bab.png)
 
-![요일](https://user-images.githubusercontent.com/122436389/219279463-15601e17-2564-4b21-a366-554ea286c979.png)
+![요일](https://user-images.githubusercontent.com/122436389/219280617-f59c34c4-ec08-4053-8981-55ce19ba89a8.png)
 ``` python
 import csv
 f = open("C:\\Users\\a13\\Desktop\\web\\day33\\범죄발생_요일_2019.csv",encoding='euc-kr')
@@ -45,7 +45,7 @@ plt.xticks(x, day)
 plt.legend()
 plt.show()
 ```
-![교육](https://user-images.githubusercontent.com/122436389/219279591-fa33fe0f-80fe-47f8-97ec-879a5699bf18.png)
+![교육](https://user-images.githubusercontent.com/122436389/219280628-72082b23-7422-4ca4-82d6-90eedc9614b1.png)
 ``` python
 import matplotlib.pyplot as plt
 import numpy as np
